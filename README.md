@@ -20,8 +20,6 @@ This eliminates manual work, ensures data consistency, and speeds up reporting.
 - **Email (SMTP)** → daily notifications  
 
 ---
-## 📊 Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
 
 
 ## Project Structure
