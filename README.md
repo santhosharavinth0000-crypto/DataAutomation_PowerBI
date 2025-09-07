@@ -23,10 +23,6 @@ This eliminates manual work, ensures data consistency, and speeds up reporting.
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](screenshot.png)
 
-git add screenshot.png README.md
-git commit -m "Added Power BI dashboard screenshot"
-git push
-
 
 ## Project Structure
 ```plaintext
