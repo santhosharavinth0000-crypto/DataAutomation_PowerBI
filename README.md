@@ -20,7 +20,7 @@ This eliminates manual work, ensures data consistency, and speeds up reporting.
 - **Email (SMTP)** → daily notifications  
 
 ---
-
+- <a href="https://github.com/santhosharavinth0000-crypto/DataAutomation_PowerBI/blob/main/LongstandingPBI.jpg">Dashboard Screenshot</a>
 
 ## Project Structure
 ```plaintext
